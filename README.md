@@ -1,2 +1,2 @@
 # Data-Science-Notebooks
-Repository of Jupyter Notebooks
+Repository of Public Jupyter Notebooks
